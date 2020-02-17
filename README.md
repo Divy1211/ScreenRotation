@@ -16,7 +16,7 @@
 
 2. Download the ScreenRotaion32.jar or ScreenRotation64.jar file from here, corresponding to the type of processor you have as found in step 1.
 
-3 Download a utility called [display](https://download.cnet.com/Display/3000-2094_4-78037087.html). (This program is not my creation!)
+3. Download a utility called [display](https://download.cnet.com/Display/3000-2094_4-78037087.html). (This program is not my creation!)
   a) Take the display32.exe or display64.exe file corresponding to the type of processor you have as found in step 1.
   b) Put it in the same folder as the ScreenRotation32/64.jar file.
   
