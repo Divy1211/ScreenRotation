@@ -23,7 +23,7 @@
 3.1. Take the display32.exe or display64.exe file corresponding to the type of processor you have as found in step 1.
 
 3.2. Put it in the same folder as the ScreenRotation32/64.jar file.
-  
+
 4. Press Win+R, a small window called "Run" should open. Type shell:startup and hit enter.
 ![Run Window](https://github.com/Divy1211/ScreenRotation/blob/master/Run.png)
 
