@@ -10,15 +10,15 @@
 # How the program works
 
 1. Determine if you have a 64 bit or a 32 bit processor. (skip the rest of step 1 if you know this already)
-  a) To determine this, right click on you "My Computer" or "This PC" icon and click properties.
-  b) The type of processor should be written under System, System Type:
+a) To determine this, right click on you "My Computer" or "This PC" icon and click properties.
+b) The type of processor should be written under System, System Type:
 ![Properties Window](https://github.com/Divy1211/ScreenRotation/blob/master/Properties.png)
 
 2. Download the ScreenRotaion32.jar or ScreenRotation64.jar file from here, corresponding to the type of processor you have as found in step 1.
 
 3. Download a utility called [display](https://download.cnet.com/Display/3000-2094_4-78037087.html). (This program is not my creation, more information about its creator can be found on the link!)
-  a) Take the display32.exe or display64.exe file corresponding to the type of processor you have as found in step 1.
-  b) Put it in the same folder as the ScreenRotation32/64.jar file.
+a) Take the display32.exe or display64.exe file corresponding to the type of processor you have as found in step 1.
+b) Put it in the same folder as the ScreenRotation32/64.jar file.
   
 4. Press Win+R, a small window called "Run" should open. Type shell:startup and hit enter.
 ![Run Window](https://github.com/Divy1211/ScreenRotation/blob/master/Run.png)
