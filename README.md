@@ -15,7 +15,7 @@
 1.2. The type of processor should be written under System, System Type:
 ![Properties Window](https://github.com/Divy1211/ScreenRotation/blob/master/imgs/Properties.png)
 
-2. Download the ScreenRotaion32.jar or ScreenRotation64.jar file from here, corresponding to the type of processor you have as found in step 1.
+2. Download the ScreenRotaion32.jar or ScreenRotation64.jar file from the jars folder on this repository, corresponding to the type of processor you have as found in step 1.
 
 3.0 Download a utility called [display](https://download.cnet.com/Display/3000-2094_4-78037087.html). (This program is not my creation, more information about its creator can be found on the link!)
 
@@ -26,7 +26,7 @@
 4. Press Win+R, a small window called "Run" should open. Type shell:startup and hit enter.
 ![Run Window](https://github.com/Divy1211/ScreenRotation/blob/master/imgs/Run.png)
 
-5. Create a **shortcut** for the ScreenRotation<32/64>.jar file and put it in the folder that just you just opened. There might be other files in that folder, but that is not a problem.
+5. Create a **shortcut** for the ScreenRotation32/64.jar file and put it in the folder that just you just opened. There might be other files in that folder, but that is not a problem.
 ![Startup Folder](https://github.com/Divy1211/ScreenRotation/blob/master/imgs/Startup.png)
 
 6. Double click this shortcut once its in there. No visible change will occour but you will now be able to use alt+arrow keys (no need to hold control, just alt+arrow will do) to rotate the screen just like previous windows versions allowed you to do! It will automatically start even when you restart your computer.
