@@ -1,5 +1,4 @@
-# Screen Rotation Hotkeys/Shortcut in Windows 10
-
+# ScreenRotation
 1. A Java program that re-enables the ctrl+alt+arrow key screen rotation hotkeys on Windows 10.
 
 2. In versions of Windows prior to Windows 10, there was a useful feature where if you pressed ctrl+alt+left/right/up/down arrow keys, the screen would rotate in that direction. Sadly support for this was dropped in Windows 10 but I found this feature useful enough to write a Java program that would re enable this feature!
