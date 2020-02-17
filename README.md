@@ -29,7 +29,7 @@
 5. Create a **shortcut** for the ScreenRotation32/64.jar file and put it in the folder that just you just opened. There might be other files in that folder, but that is not a problem.
 ![Startup Folder](https://github.com/Divy1211/ScreenRotation/blob/master/imgs/Startup.png)
 
-6. Double click this shortcut once its in there. No visible change will occour but you will now be able to use alt+arrow keys (no need to hold control, just alt+arrow will do) to rotate the screen just like previous windows versions allowed you to do! It will automatically start even when you restart your computer.
+6. Double click this shortcut once its in there. No visible change will occur but you will now be able to use alt+arrow keys (no need to hold control, just alt+arrow will do) to rotate the screen just like previous windows versions allowed you to do! It will automatically start even when you restart your computer.
 
 # Note!
 1. Please ensure that the processor type matches the display file and the ScreenRotation file!
