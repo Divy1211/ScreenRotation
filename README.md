@@ -36,3 +36,4 @@
 1. Please ensure that the processor type matches the display file and the ScreenRotation file!
 2. Both of these must be kept in the same folder for it to work!
 3. If you ever change the location of these two files, you will have to go through steps 4 to 6 again.
+4. The source code related to the jar files has been provided. To run it in an IDE you will need to use the [jnativehook](https://github.com/kwhat/jnativehook/releases) library.
